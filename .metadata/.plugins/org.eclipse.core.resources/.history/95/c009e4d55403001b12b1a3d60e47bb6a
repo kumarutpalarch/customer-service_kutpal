@@ -1,0 +1,3 @@
+spring.application.name=customer-service_kutpal
+server.port=8081
+server.data.mongodb.uri=

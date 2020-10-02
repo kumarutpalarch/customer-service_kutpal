@@ -1,0 +1,7 @@
+package com.customer.ms.model;
+
+public class CustomerM {
+	private String cusId;
+	private String cusId;
+	private String cusId;
+}

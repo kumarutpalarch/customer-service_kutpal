@@ -1,0 +1,7 @@
+package com.customer.ms.service;
+
+public interface CustomerService {
+	
+	List<CustomerM> findAll();
+
+}

@@ -1,0 +1,9 @@
+package com.customer.ms.dao;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class CustomerDAO {
+	
+	private static final Map<String, Customer> cusMap = new Hashmap<String, Customer>(); 
+}

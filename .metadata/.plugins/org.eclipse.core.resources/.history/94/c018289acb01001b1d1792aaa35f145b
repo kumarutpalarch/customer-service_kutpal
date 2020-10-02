@@ -1,0 +1,12 @@
+package com.customer.ms.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CustomerController {
+
+	public String hello() {
+		return "Greetings from Spring Boot 1.0";
+	}
+	
+}
